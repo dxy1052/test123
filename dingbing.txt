@@ -5,3 +5,5 @@
 2. Edit dingbing.txt file again.
 
 3. Change something in the file dingbing.txt on GitHub repository.
+
+4. Update the file dingbing.txt on local repository.
