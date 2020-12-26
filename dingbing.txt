@@ -3,3 +3,5 @@
 1. dingbing.txt file
 
 2. Edit dingbing.txt file again.
+
+3. Change something in the file dingbing.txt on GitHub repository.
